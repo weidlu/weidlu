@@ -1,12 +1,40 @@
 <div align="center">
 
-# 👋 你好，我是 weidlu
+👋 你好，我是 weidlu
 
-## 🚀 软件工程师 | 全栈开发者
-
-📍 **现居上海** | 🎓 **软件工程** | 💼 **支付·OTA·视频·电商**
+📍 **现居上海** | 💻 **软件工程师** | 💼 **支付·OTA·视频·电商**
 
 </div>
+
+---
+
+## 🚀 关于我
+
+### 💡 背景
+
+- 🎓 **教育背景**：HFUT 信息与计算科学 → USTC 软件工程
+- 💼 **工作经验**：先后任职多家公司，涉及支付·OTA·视频·电商领域
+- 🛠️ **技术栈**：Java/Spring Boot, Golang, Python (Django/FastAPI), Next.js/Vue.js
+
+### 🎯 正在做的事
+
+
+
+| 项目 | 描述 | 状态 |
+|------|------|------|
+| 🎮 **剑网三外观交易平台** | 智能化游戏外观交易·价值预测·投资建议 | 开发中 |
+| 🤖 **机器学习进阶** | 深度学习算法·数据分析·AI应用 | 学习中 |
+
+
+
+### 🌟 工作理念
+
+> 做正确的事，等着被开除。
+> 至诚如神。
+
+---
+
+## 📊 技能展示
 
 <div align="center">
 
@@ -14,9 +42,11 @@
 
 </div>
 
-<div align="center">
+---
 
-### 📊 技能概览
+## 📈 GitHub 统计
+
+<div align="center">
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weidlu&theme=tokyonight)
 
@@ -35,34 +65,9 @@
 
 ---
 
-## 🚀 关于我
-
-### 💡 背景
-
-- 🎓 **教育背景**：HFUT 信息与计算科学 → USTC 软件工程
-- 💼 **工作经验**：多家头部公司软件工程师，涉及支付·OTA·视频·电商领域
-- 🛠️ **技术栈**：Java/Spring Boot, Golang, Python (Django/FastAPI), Next.js/Vue.js
-
-### 🎯 正在做的事
-
-<div align="center">
-
-| 项目 | 描述 | 状态 |
-|------|------|------|
-| 🎮 **剑网三外观交易平台** | 智能化游戏外观交易·价值预测·投资建议 | 开发中 |
-| 🤖 **机器学习进阶** | 深度学习算法·数据分析·AI应用 | 学习中 |
-
-</div>
-
-### 🌟 工作理念
-
-> 厌恶重复，追求创新；知其所以然，方有持续动力。
-
----
-
-<div align="center">
-
 ## 📫 联系我
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-weidlu-181717?style=for-the-badge&logo=github)](https://github.com/weidlu)
 [![Gmail](https://img.shields.io/badge/Gmail-sssscorch@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sssscorch@gmail.com)
